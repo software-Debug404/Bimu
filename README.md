@@ -40,4 +40,4 @@ Este projeto está em desenvolvimento com o objetivo de criar uma experiência d
 
 Contato
 
-Para mais informações, feedback ou colaborações, entre em contato com Kauan Davi Oliveira de Sá.
+Para mais informações, feedback ou colaborações, entre em contato com [Kauan Davi Oliveira de Sá](https://www.linkedin.com/in/kauan-davi-oliveira-de-s%C3%A1-4539ba242/).
