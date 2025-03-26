@@ -2,7 +2,7 @@
 
 Sobre o Projeto
 
-Bimus é um jogo de luta inspirado no estilo de Street Fighter, onde o protagonista, Kaito, enfrenta criaturas mitológicas em combates baseados em um ritual antigo chamado "bimus". Conforme avança, ele se aproxima de sua vingança contra O Caçador, mas também enfrenta o risco de perder sua própria identidade no processo.
+Bimus é um jogo de luta inspirado no estilo 2D de plataforma, onde o protagonista, Kaito, enfrenta criaturas mitológicas em combates baseados em um ritual antigo chamado "bimus". Conforme avança, ele se aproxima de sua vingança contra O Caçador, mas também enfrenta o risco de perder sua própria identidade no processo.
 
 História
 
