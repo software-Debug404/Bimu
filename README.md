@@ -1,4 +1,4 @@
-# Bimus
+# Bimu
 
 Sobre o Projeto
 
