@@ -1,0 +1,99 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+    color: white;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    overflow: hidden;
+}
+
+#menu-container {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.8);
+    z-index: 10;
+}
+
+#menu-container.hidden {
+    display: none !important;
+}
+
+.menu-screen {
+    text-align: center;
+    padding: 2rem;
+    background-color: rgba(0, 0, 0, 0.7);
+    border: 2px solid white;
+    border-radius: 10px;
+    max-width: 600px;
+}
+
+.menu-screen h1 {
+    font-size: 3rem;
+    margin-bottom: 2rem;
+    color: #ffcc00;
+}
+
+.menu-screen h2 {
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+    color: #ffcc00;
+}
+
+.menu-screen ul {
+    list-style-type: none;
+    margin-bottom: 2rem;
+    font-size: 1.2rem;
+    line-height: 2;
+}
+
+.menu-screen p {
+    font-size: 1.2rem;
+    color: #aaa;
+    animation: piscar 1.5s infinite;
+}
+
+.hidden {
+    display: none;
+}
+
+@keyframes piscar {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.5; }
+}
+
+canvas {
+    border: 2px solid white;
+    position: relative;
+}
+
+.health-bar {
+    position: absolute;
+    height: 20px;
+    border: 2px solid white;
+}
+
+#player-health {
+    left: 20px;
+    top: 20px;
+    background-color: red;
+    width: 200px;
+}
+
+#enemy-health {
+    right: 20px;
+    top: 20px;
+    background-color: red;
+    width: 200px;
+}
